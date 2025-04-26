@@ -1,9 +1,0 @@
-{
-  "id": "544bbfb3-064e-4f61-bbdf-d4a651491c76",
-  "name": "address_info",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

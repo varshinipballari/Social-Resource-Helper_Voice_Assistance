@@ -1,9 +1,0 @@
-{
-  "id": "f88fd9ad-ea64-44fc-8a6e-504bcefb750b",
-  "name": "appointment_request",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

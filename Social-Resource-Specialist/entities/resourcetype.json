@@ -1,9 +1,0 @@
-{
-  "id": "0aa0ff1c-dba5-413b-a076-26ca0a78f7f1",
-  "name": "resourcetype",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}
