@@ -1,0 +1,139 @@
+{
+  "id": "dc01f3d0-dd79-4355-a72d-73c667e20d4b",
+  "name": "Checkaddressandbookappointment",
+  "auto": true,
+  "contexts": [
+    "Checkhoursandeligibility-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.Findresourcetypeandname-custom.CheckOperatinghoursandeligibility-custom",
+      "affectedContexts": [
+        {
+          "name": "Findresourcetypeandname",
+          "lifespan": 5
+        },
+        {
+          "name": "selected_resource",
+          "lifespan": 5
+        },
+        {
+          "name": "resourcename",
+          "lifespan": 5
+        },
+        {
+          "name": "checkhoursandeligibility-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Checkhoursandeligibility-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8d6a2ad6-d5f6-426b-9055-048be1d77b3e",
+          "name": "address_info",
+          "required": false,
+          "dataType": "@address_info",
+          "value": "$address_info",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "51884206-96c9-431e-857d-df561e297079",
+          "name": "resourcename",
+          "required": true,
+          "dataType": "@resourcename",
+          "value": "$resourcename",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any resourcename in mind?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a5500501-e6ed-4fdf-8e86-aa9e3eff14f9",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any city you are looking for in particular?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6e51e5d6-c8aa-4df5-905a-f7c0944e700d",
+          "name": "appointment_request",
+          "required": false,
+          "dataType": "@appointment_request",
+          "value": "$appointment_request",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "46d234f9-e865-4a87-9740-5150244d5e00",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your appointment is confirmed"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

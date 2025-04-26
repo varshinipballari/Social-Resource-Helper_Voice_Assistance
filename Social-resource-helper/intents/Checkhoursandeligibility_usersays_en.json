@@ -1,0 +1,410 @@
+[
+  {
+    "id": "4f52cdef-590b-4d21-ac74-81200886635b",
+    "data": [
+      {
+        "text": "hours",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a26e8f6b-44d6-4b85-a0bb-09b81fba6859",
+    "data": [
+      {
+        "text": "Tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "operating hours",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Growing Hearts Childcare Center",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b340caf-d33e-4946-a0e4-ce6c9ff40efc",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon veterans resource center",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bef2fa8-4132-49c2-8640-f7e1c349001b",
+    "data": [
+      {
+        "text": "What days is ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0eda5b3d-03ea-4820-ac48-f46068a1f0f5",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland Rescue Mission",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " operate ",
+        "userDefined": false
+      },
+      {
+        "text": "overnight",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14d58b37-fd9e-462d-a78c-d9dc94382d3f",
+    "data": [
+      {
+        "text": "Can homeless ",
+        "userDefined": false
+      },
+      {
+        "text": "veterans",
+        "meta": "@eligibility",
+        "alias": "eligibility",
+        "userDefined": true
+      },
+      {
+        "text": " stay at Salvation Army in ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e703b78-1251-4e74-9778-981b7ed93e9e",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "St. Vincent de Paul",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " available to ",
+        "userDefined": false
+      },
+      {
+        "text": "low income",
+        "meta": "@eligibility",
+        "alias": "eligibility",
+        "userDefined": true
+      },
+      {
+        "text": " residents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9e9db5-5ea6-4d85-909b-7c8c232b6fcb",
+    "data": [
+      {
+        "text": "Do I qualify for ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " if I\u0027m unemployed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62150f9c-ced1-45ed-a4ea-ef213912c8f2",
+    "data": [
+      {
+        "text": "Are there services for ",
+        "userDefined": false
+      },
+      {
+        "text": "immigrants",
+        "meta": "@eligibility",
+        "alias": "eligibility",
+        "userDefined": true
+      },
+      {
+        "text": " at Community Action Organization in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " that are open ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bd14d9a-ab35-442c-b838-1f028598ccda",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "low income",
+        "meta": "@eligibility",
+        "alias": "eligibility",
+        "userDefined": true
+      },
+      {
+        "text": " families use ",
+        "userDefined": false
+      },
+      {
+        "text": "Catholic Charities",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Medford",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0318574-8f19-4dff-baaa-c339dfdc2328",
+    "data": [
+      {
+        "text": "Does Salvation Army in ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " have services for ",
+        "userDefined": false
+      },
+      {
+        "text": "veterans",
+        "meta": "@eligibility",
+        "alias": "eligibility",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c9f25bd-29d8-4fc9-8fc8-44cd8edd7456",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "sunshine community pantry",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

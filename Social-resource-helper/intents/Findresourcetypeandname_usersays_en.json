@@ -1,0 +1,826 @@
+[
+  {
+    "id": "826363f4-c26a-46b5-b0f9-63be3bdd0631",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "food banks",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "gresham, or",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "719dde77-1a61-4aed-aa5a-7d8469540ef6",
+    "data": [
+      {
+        "text": "I just ",
+        "userDefined": false
+      },
+      {
+        "text": "lost my job",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " and need help in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e6889ad-aac5-4544-9636-82d11eb57737",
+    "data": [
+      {
+        "text": "Resources for someone who just became ",
+        "userDefined": false
+      },
+      {
+        "text": "homeless",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09c5f31c-deea-4cc0-a633-0094a2a83124",
+    "data": [
+      {
+        "text": "Resources for ",
+        "userDefined": false
+      },
+      {
+        "text": "immigrants",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem, OR",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "971b4048-61f9-416c-ac09-42381228d226",
+    "data": [
+      {
+        "text": "Where can seniors get ",
+        "userDefined": false
+      },
+      {
+        "text": "free meals",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Springfield",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4eed977-e69f-4670-bc5f-6ee2c86c8dd2",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "food pantries",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5dbd882-d3fa-49c8-9af7-da36c8d05903",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " support resources in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c148a51-9ff8-41f3-bf5d-e6aa23f1b4a0",
+    "data": [
+      {
+        "text": "Resources that offer childcare in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99a6e4f4-50d4-437e-8b14-5aebba104ddf",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "childcare",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4520707-e570-4efa-bd79-7aa04bc0f21f",
+    "data": [
+      {
+        "text": "Resources that provide ",
+        "userDefined": false
+      },
+      {
+        "text": "transportation",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " assistance in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61dc5c1b-4010-4686-97de-90265665d09f",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " locations in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91b89bc6-8d3b-43b8-bfd7-4bf011550412",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "Community Action Organization",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": " of Oregon in ",
+        "userDefined": false
+      },
+      {
+        "text": "Corvallis",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b261932-898f-473a-a8f0-88fea2b88135",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "Catholic Charities",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " office in ",
+        "userDefined": false
+      },
+      {
+        "text": "Medford",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bc95a30-a2f2-4b21-b155-86dabad6ac1b",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "St. Vincent de Paul",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7368b231-0c17-44e1-8e31-6c1d931efb9b",
+    "data": [
+      {
+        "text": "Where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Department of Human Services",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": " office in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f22728-ed7d-4d86-8cbb-615efa722e4a",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland Rescue Mission",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " still on ",
+        "userDefined": false
+      },
+      {
+        "text": "Burnside",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fa4b56d-623e-4e82-8f49-d7c2ba0a4815",
+    "data": [
+      {
+        "text": "Find the nearest ",
+        "userDefined": false
+      },
+      {
+        "text": "WorkSource Oregon",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "313a9c4d-faad-4f6f-9c27-ab9b38bdf387",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "Goodwill",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Job",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " Connection ",
+        "userDefined": false
+      },
+      {
+        "text": "employment program",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f824731c-9bed-4edb-81ec-4db679d6b8a7",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " mental health services in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc5f6ae8-09d5-4bd3-af94-c4135417e087",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "Community Action Organization",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "housing program",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35603f01-ac4d-4f6f-b7aa-d71c0482c63e",
+    "data": [
+      {
+        "text": "Where can I find ",
+        "userDefined": false
+      },
+      {
+        "text": "food banks",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0fc4a2a-133d-4b25-87d7-991371b0a60b",
+    "data": [
+      {
+        "text": "Are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "homeless",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "shelters",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9ae461a-94ee-42c3-961b-d606ce603211",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "legal aid",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " services in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "643df6d3-db52-4c40-bcac-3d9be68aad86",
+    "data": [
+      {
+        "text": "Where can I find resources for ",
+        "userDefined": false
+      },
+      {
+        "text": "veterans",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5917a143-f007-4920-8f45-951674756236",
+    "data": [
+      {
+        "text": "Where are ",
+        "userDefined": false
+      },
+      {
+        "text": "addiction recovery",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": false
+      },
+      {
+        "text": " centers in ",
+        "userDefined": false
+      },
+      {
+        "text": "Springfield",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db008c87-7234-4893-bd06-dfc202ac45e1",
+    "data": [
+      {
+        "text": "I\u0027m looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "meal programs",
+        "meta": "@resourcetype",
+        "alias": "resourcetype",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

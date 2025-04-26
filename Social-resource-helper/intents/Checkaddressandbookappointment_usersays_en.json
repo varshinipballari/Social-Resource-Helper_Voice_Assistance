@@ -1,0 +1,483 @@
+[
+  {
+    "id": "e24f6017-8e1b-4e7b-887a-ddc7049ab7a8",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "sunshine community pantry",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86504471-52a6-4a74-b908-6db39aeff17f",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a5b861e-4f65-4056-bde4-0fe723f851fa",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " a visit to ",
+        "userDefined": false
+      },
+      {
+        "text": "WorkSource Oregon",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "981d0eee-1f6b-45fb-b8c9-286b4b65d96b",
+    "data": [
+      {
+        "text": "How do I make an ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at Legal Aid Services in ",
+        "userDefined": false
+      },
+      {
+        "text": "Corvallis",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d786ad11-abcb-4655-839f-7a06a0335fd2",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " a time to visit Transition Projects in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "422519a4-af00-4741-a486-682369da86e6",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " a meeting at ",
+        "userDefined": false
+      },
+      {
+        "text": "Goodwill",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " Job Connection in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de9788c0-520f-4e72-8c15-f18ea725891b",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": false
+      },
+      {
+        "text": " and can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a17419d-910f-425c-909a-11adb5b46708",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "St. Vincent de Paul",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "visit",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43327f92-81f7-48f8-bfb6-00bfca29420d",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "directions",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Catholic Charities",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Medford",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dd4bdde-3fee-4087-8a09-92dbe98471c0",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Community Action Organization",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51637fa3-dc28-40e3-a625-38c4e9e2ec6c",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " located in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and can I ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 12pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

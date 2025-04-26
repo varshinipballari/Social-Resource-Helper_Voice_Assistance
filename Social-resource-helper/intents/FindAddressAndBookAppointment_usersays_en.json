@@ -1,0 +1,793 @@
+[
+  {
+    "id": "77251b6a-a349-422c-b162-41191c457a46",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham food bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a80f0a12-990d-4d56-a2a1-d4852b62b515",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon veterans resource center",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c89d2752-7e8d-4b00-9775-37454b922fc0",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": false
+      },
+      {
+        "text": " and can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ad7691-8fe1-4ef2-8d7e-8fc41d2ec3af",
+    "data": [
+      {
+        "text": "What is the address of ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16867dc5-219b-477d-9d63-b0e164825251",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " located in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and can I schedule ",
+        "userDefined": false
+      },
+      {
+        "text": "at 12pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d85c1ac6-0903-4cf9-b2ec-b4cd4aa70790",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " at Community Action Organization in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04c7394f-0ac8-495d-98e8-3dd8ca99163a",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "directions",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Catholic Charities",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Medford",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and want to book an ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfd94528-3763-4eff-97ef-1cd677fc59c3",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "St. Vincent de Paul",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " a visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1727d2a1-3e79-48d2-882f-79e79b3e839b",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " and can I book an ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23b692bf-d99d-42cd-8266-ed8dbbeafd96",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " a meeting at ",
+        "userDefined": false
+      },
+      {
+        "text": "Goodwill",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " Job Connection in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2db9c97-f1c5-428e-9d26-e3c7dfff46e3",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " a time to visit Transition Projects in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70b5d4a3-0f39-4142-b2fd-5deadb1574bf",
+    "data": [
+      {
+        "text": "How do I make an ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " at Legal Aid Services in ",
+        "userDefined": false
+      },
+      {
+        "text": "Corvallis",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b63ca2c6-620d-49d9-bc66-ea28b30dabe1",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " a visit to ",
+        "userDefined": false
+      },
+      {
+        "text": "WorkSource Oregon",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bend",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d743d43c-c3fb-4305-919f-09f89f4f1892",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book an appointment",
+        "meta": "@appointment_request",
+        "alias": "appointment_request",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "OHSU Health",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0611de84-b72a-4e2c-a713-fe1c0220e2c6",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " of Community Action Organization in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8680d0da-e4ca-4ab1-80c1-4f7ee481ff4c",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " can I find the Salvation Army in ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d928daeb-e570-4f01-b236-56035b6ef47a",
+    "data": [
+      {
+        "text": "How do I get",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Catholic Charities",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Medford",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dd784fd-70e5-4b3a-ac0c-87a50dfe014b",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "St. Vincent de Paul",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eugene",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "357a1874-32b6-4831-832f-bfd98b37a458",
+    "data": [
+      {
+        "text": "Where",
+        "meta": "@address_info",
+        "alias": "address_info",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Food Bank",
+        "meta": "@resourcename",
+        "alias": "resourcename",
+        "userDefined": false
+      },
+      {
+        "text": " located in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

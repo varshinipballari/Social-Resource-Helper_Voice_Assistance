@@ -1,0 +1,73 @@
+[
+  {
+    "value": "Food Bank",
+    "synonyms": [
+      "food bank",
+      "meal program"
+    ]
+  },
+  {
+    "value": "meal program",
+    "synonyms": [
+      "meal program"
+    ]
+  },
+  {
+    "value": "shelter",
+    "synonyms": [
+      "shelter",
+      "homeless",
+      "Family shelter"
+    ]
+  },
+  {
+    "value": "Housing Program",
+    "synonyms": [
+      "housing program"
+    ]
+  },
+  {
+    "value": "Addiction Recovery",
+    "synonyms": [
+      "addiction recovery"
+    ]
+  },
+  {
+    "value": "Nonprofit",
+    "synonyms": [
+      "Nonprofit",
+      "nonprofit",
+      "non profit"
+    ]
+  },
+  {
+    "value": "Veteran",
+    "synonyms": [
+      "army",
+      "retired",
+      "veteran",
+      "Navy"
+    ]
+  },
+  {
+    "value": "Child care",
+    "synonyms": [
+      "Childcare",
+      "child care",
+      "childcare"
+    ]
+  },
+  {
+    "value": "Government",
+    "synonyms": [
+      "Government",
+      "government"
+    ]
+  },
+  {
+    "value": "Healthcare",
+    "synonyms": [
+      "healthcare"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f15d1cb6-a15d-46c0-86ee-f7395d24669e",
+  "name": "resourcename",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

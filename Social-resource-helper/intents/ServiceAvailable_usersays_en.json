@@ -1,0 +1,113 @@
+[
+  {
+    "id": "46b8a98d-c55a-4388-abb1-8caa478de0fb",
+    "data": [
+      {
+        "text": "I have no food and three kids in Bend, what ",
+        "userDefined": false
+      },
+      {
+        "text": "services are available",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a83b1397-17e5-4d7c-bf30-55d4e9bcd10a",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "community services",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2487a737-03f6-40b2-b892-7f259dcfdd94",
+    "data": [
+      {
+        "text": "Services",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c67a604d-b9c6-4f0b-b197-58969b41a2b6",
+    "data": [
+      {
+        "text": "What can you ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "962be505-a10e-4565-86da-fe345816c3c1",
+    "data": [
+      {
+        "text": "Tell me about all the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

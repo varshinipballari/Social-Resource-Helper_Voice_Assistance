@@ -1,0 +1,131 @@
+{
+  "id": "d58c0edd-ac0a-4806-a00d-af265026fe80",
+  "parentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "FindAddressAndBookAppointment",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "selected_resource",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f914fa56-1d4e-4dad-999b-176236259697",
+          "name": "resourcename",
+          "required": true,
+          "dataType": "@resourcename",
+          "value": "$resourcename",
+          "defaultValue": "\"Which organization would you like the address for or to book an appointment with?\"\n\n\"Could you tell me which specific service provider you\u0027re trying to locate or schedule with?\"\n\n\"I can help with addresses and appointments, but I need to know which resource you\u0027re interested in.\"",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any resourcename in mind?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "320546d8-cd3d-445d-87e7-42a68933fa97",
+          "name": "geo-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "\"Which city are you looking for this resource in?\"",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any city you are looking for in particular?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fac8d6c2-7530-445d-8924-d7f25d38eda2",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9675c640-b286-4ebe-a20b-dbec43fe6fb5",
+          "name": "appointment_request",
+          "required": false,
+          "dataType": "@appointment_request",
+          "value": "$appointment_request",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to book an appointment"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "93b97aa1-4c8d-471f-9de2-9adc0656778e",
+          "name": "address_info",
+          "required": false,
+          "dataType": "@address_info",
+          "value": "$address_info",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your appointment is confirmed",
+            "Address is $address_info"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

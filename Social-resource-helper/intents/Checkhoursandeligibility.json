@@ -1,0 +1,102 @@
+{
+  "id": "6940a47c-7513-4644-b0a3-516c6ebceaf1",
+  "parentId": "aeff8653-0396-4b06-870c-4138e1b1f40c",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "Checkhoursandeligibility",
+  "auto": true,
+  "contexts": [
+    "Findresourcetypeandname-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.Findresourcetypeandname-custom",
+      "affectedContexts": [
+        {
+          "name": "Checkhoursandeligibility-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ea42e5ba-cca4-4702-abc3-088935142648",
+          "name": "resourcename",
+          "required": false,
+          "dataType": "@resourcename",
+          "value": "$resourcename",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "23050dd2-7afb-41b5-9574-5e2fd3354697",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f97da5ca-9a1a-44b1-ad4f-69ec2756fb04",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8e94a678-1917-4556-a92b-5f53221c97ed",
+          "name": "eligibility",
+          "required": false,
+          "dataType": "@eligibility",
+          "value": "$eligibility",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, $resourcename in $geo-city does serve $eligibility individuals. You\u0027ll need to bring  to verify your eligibility. Their staff can help determine what specific programs you qualify for when you visit.\n\nWould you like to know their hours of operation?",
+            "Yes i found the $any of the $resourcename . do you want to know the address"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "aeff8653-0396-4b06-870c-4138e1b1f40c",
+  "parentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "rootParentId": "30fe21ea-1621-40a1-8a72-0c80076d9d03",
+  "name": "Findresourcetypeandname",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "Findresourcetypeandname-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Checkhoursandeligibility",
+          "lifespan": 5
+        },
+        {
+          "name": "resource_list",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d8aff4f2-0e50-4b9f-a1d4-61814e4ecc1d",
+          "name": "resourcetype",
+          "required": true,
+          "dataType": "@resourcetype",
+          "value": "$resourcetype",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you have any resource type you are looking for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d738ffb-652e-4aee-a389-d3158bc8f612",
+          "name": "geo-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To help you find resources, could you please tell me which city in Oregon you\u0027re looking for services in?"
+            },
+            {
+              "lang": "en",
+              "value": "I need to know which city you\u0027re interested in. Could you please specify a city in Oregon?"
+            },
+            {
+              "lang": "en",
+              "value": "Which Oregon city would you like me to search for resources in?"
+            },
+            {
+              "lang": "en",
+              "value": "I can find community resources throughout Oregon. Which city are you looking for services in?"
+            },
+            {
+              "lang": "en",
+              "value": "To provide the most relevant information, I need to know which city you\u0027re in. Could you tell me the city name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9426b71e-d45a-4b82-b47e-ec59a2c21d81",
+          "name": "resourcename",
+          "required": false,
+          "dataType": "@resourcename",
+          "value": "$resourcename",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I found $resourcename, a $resourcetype, in $geo-city. Would you like to know its hours, eligibility, or address?",
+            "I found $resourcename in $geo-city. Would you like to know more about it?",
+            "I found $resourcename, a $resourcetype, in $geo-city. Would you like to know its hours, eligibility, address, or book an appointment?",
+            "There are several $resourcetype programs in $geo-city. Do you have a specific name in mind?",
+            "I found $resourcename. Could you tell me the $geo-city you\u0027re looking for?",
+            "$resourcename is available in multiple locations. Please specify the city or area you\u0027re interested in."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
