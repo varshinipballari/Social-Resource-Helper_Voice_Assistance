@@ -1,0 +1,32 @@
+[
+  {
+    "value": "address",
+    "synonyms": [
+      "address"
+    ]
+  },
+  {
+    "value": "location",
+    "synonyms": [
+      "location"
+    ]
+  },
+  {
+    "value": "directions",
+    "synonyms": [
+      "directions"
+    ]
+  },
+  {
+    "value": "where",
+    "synonyms": [
+      "where"
+    ]
+  },
+  {
+    "value": "find",
+    "synonyms": [
+      "find"
+    ]
+  }
+]
